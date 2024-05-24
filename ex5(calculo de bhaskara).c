@@ -35,8 +35,8 @@ int main() {
         R1 = ( -b + RaizDelta)/(2*a);
         R2 = ( -b - RaizDelta)/(2*a);
         
-        printf("R1 = %f", R1);
-        printf("\nR2 = %f", R2);
+        printf("R1 = %.5f", R1);
+        printf("\nR2 = %.5f", R2);
 
     }
 
